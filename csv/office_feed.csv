@@ -1,0 +1,13 @@
+id,name,officephone,state,status
+1,Alpha Realty     ,123-456-7890,  CA,Active
+2,Beta Estates,234-567-8901,TX,Active
+3,Gamma Homes,345-678-9012,NY,Active
+4,Delta Properties,456-789-0123,FL,Inactive
+5,Epsilon Realty,567-890-1234,WA,Active
+5,Epsilon Realty,567-890-1234,WA,Active
+6,Zeta Estates,678-901-2345,NV,Active
+7,Eta Realty,789-012-3456,IL,Active
+8,Theta Homes,890-123-4567,NC,Active
+9,Epsilon Realty,567-890-1234,WA,Active
+10,Kappa Realty,456-123-9999,NY,Active
+11,Sigma Luxury Homes,7774561243,CA,Active
